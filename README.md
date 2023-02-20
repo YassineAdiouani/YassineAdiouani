@@ -10,7 +10,7 @@
 <br /><br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yassinediwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinediwani" height="30" width="40" /></a>
+<a href="https://twitter.com/DiwaniYassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinediwani" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yassinediwani444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine adiouani" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yassine.ido.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine ido" height="30" width="40" /></a>
 <a href="https://instagram.com/yassine_diwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassine_diwani44" height="30" width="40" /></a>
