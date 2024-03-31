@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineadiouani&label=Profile%20views&color=0e75b6&style=flat" alt="yassineadiouani" /> </p>
 
-- 👨‍💻 All of my projects are available at [-yassine.netlify.app](-yassine.netlify.app)
+- 👨‍💻 All of my projects are available at [dev-yassine.netlify.app](dev-yassine.netlify.app)
 
 - 📫 How to reach me **yassinediwani444@gmail.com**
 <br /><br />
